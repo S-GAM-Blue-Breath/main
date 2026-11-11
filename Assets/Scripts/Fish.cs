@@ -59,22 +59,31 @@ public class Fish : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D other)
+{
+    bool isPlayer = other.CompareTag("Player");
+
+    if (!isPlayer && other.attachedRigidbody != null)
     {
-        bool isPlayer = other.CompareTag("Player");
-
-        if (!isPlayer && other.attachedRigidbody != null)
-        {
-            isPlayer = other.attachedRigidbody.CompareTag("Player");
-        }
-
-        if (!isPlayer || collected)
-        {
-            return;
-        }
-
-        collected = true;
-
-        Debug.Log($"{fishName} 획득!");
-        Destroy(gameObject);
+        isPlayer = other.attachedRigidbody.CompareTag("Player");
     }
+
+    if (!isPlayer || collected)
+    {
+        return;
+    }
+
+    collected = true;
+
+    Debug.Log($"{fishName} 획득!");
+
+    FishPickupPopup popup = FindFirstObjectByType<FishPickupPopup>();
+    SpriteRenderer fishRenderer = GetComponentInChildren<SpriteRenderer>();
+
+    if (popup != null)
+    {
+        popup.Show(fishName, fishRenderer != null ? fishRenderer.sprite : null);
+    }
+
+    Destroy(gameObject);
+}
 }
