@@ -84,6 +84,9 @@ public class Fish : MonoBehaviour
         popup.Show(fishName, fishRenderer != null ? fishRenderer.sprite : null);
     }
 
+    FishCollectionHud collectionHud = FindFirstObjectByType<FishCollectionHud>();
+    collectionHud?.RevealFish(fishName);
+
     Destroy(gameObject);
 }
 }
