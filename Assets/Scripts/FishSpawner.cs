@@ -19,7 +19,7 @@ public class FishSpawner : MonoBehaviour
         yield return new WaitForSeconds(screenDuration);
 
         // 2번 화면: 흰동가리 20%
-        TrySpawn(clownfishPrefab, 20, 2);
+        TrySpawn(clownfishPrefab, 100, 2);
         yield return new WaitForSeconds(screenDuration);
 
         // 3번 화면: 흰동가리 100%
@@ -27,15 +27,15 @@ public class FishSpawner : MonoBehaviour
         yield return new WaitForSeconds(screenDuration);
 
         // 4번 화면: 블루탱 20%
-        TrySpawn(blueTangPrefab, 20, 4);
+        TrySpawn(blueTangPrefab, 100, 4);
         yield return new WaitForSeconds(screenDuration);
 
         // 5번 화면: 블루탱 80%
-        TrySpawn(blueTangPrefab, 80, 5);
+        TrySpawn(blueTangPrefab, 100, 5);
         yield return new WaitForSeconds(screenDuration);
 
         // 6번 화면: 가오리 50%
-        TrySpawn(stingrayPrefab, 50, 6);
+        TrySpawn(stingrayPrefab, 100, 6);
         yield return new WaitForSeconds(screenDuration);
 
         // 7번 화면: 없음
