@@ -1052,8 +1052,8 @@ Transform:
   m_GameObject: {fileID: 1780468846}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.06, y: -0.06, z: 0}
-  m_LocalScale: {x: 0.10404281, y: 0.10404281, z: 0.10404281}
+  m_LocalPosition: {x: -4, y: 0, z: 0}
+  m_LocalScale: {x: 0.08065, y: 0.08065, z: 0.104042806}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1204,6 +1204,7 @@ GameObject:
   - component: {fileID: 1963006167}
   - component: {fileID: 1963006169}
   - component: {fileID: 1963006168}
+  - component: {fileID: 1963006170}
   m_Layer: 5
   m_Name: FishPopupPanel
   m_TagString: Untagged
@@ -1270,6 +1271,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963006166}
   m_CullTransparentMesh: 1
+--- !u!225 &1963006170
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963006166}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
 --- !u!1 &1968333901
 GameObject:
   m_ObjectHideFlags: 0
@@ -1390,10 +1403,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishPickupPopup
   panel: {fileID: 1963006167}
+  panelGroup: {fileID: 1963006170}
   fishIcon: {fileID: 789041305}
   fishLabel: {fileID: 1413715845}
+  holdDuration: 3
+  fadeDuration: 0.5
   slideDuration: 0.25
-  holdDuration: 2
 --- !u!114 &1968333907
 MonoBehaviour:
   m_ObjectHideFlags: 0
