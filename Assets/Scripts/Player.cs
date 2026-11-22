@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
     [SerializeField]
-    private float moveSpeed = 12f;
+    private float jumpSpeed = 2f;
 
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
@@ -35,9 +35,24 @@ public class Player : MonoBehaviour
     {
        if (isSpacePressed)
         {
-            rb.linearVelocity = new Vector2(0f, moveSpeed);
+            rb.linearVelocity = new Vector2(0f, jumpSpeed);
         } 
+
     }
+
+    void ClampToScreen() {
+
+    }
+    
+    // 현재 방법 : 보정값을 더하는 방식
+    // 위에 만들어둔 ClampToScreen 함수에 아래 LateUpdate 함수를 목표 위치로 바로 고정하는 방식으로 바꿔 코드를 작성해보세요
+    // 컴비 수업 전까지
+
+    // isTrigger과 onCollision의 차이를 공부하시오
+        // isTrigger : 통과됨으로써 물리충격 없이 충돌 시 효과를 발생시킴
+        // onCollision : 통과되지 않고 실제 현실처럼 부딪히면서 서로 반대방향으로 밀려나면서 충돌 효과를 발생시킴
+    // 시네마틱 효과에 대해서 알아보세요
+        // 영화같은 효과를 줌 -> 바람의 영향이나 특히! 중력의 영항을 뺄 수 있음
 
     void LateUpdate()
     {
