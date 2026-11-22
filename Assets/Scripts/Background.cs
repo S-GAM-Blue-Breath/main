@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Background : MonoBehaviour
 {
-    private const float MoveSpeed = 3f;
+    [SerializeField]
+    private float MoveSpeed = 3f;
 
     private SpriteRenderer spriteRenderer;
     private Camera mainCamera;

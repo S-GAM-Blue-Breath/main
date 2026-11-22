@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 867c8b6a3d81edd4bae87f6eab3666aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3040213520713918785
+    second: Obstacle 6_0
+  - first:
+      213: -6901746873882265873
+    second: Obstacle 6_1
+  - first:
+      213: -5446367764692219597
+    second: Obstacle 6_2
+  - first:
+      213: 468702160005179021
+    second: Obstacle 6_3
+  - first:
+      213: 3694313785159597319
+    second: Obstacle 6_4
+  - first:
+      213: -6824772041930131629
+    second: Obstacle 6_5
+  - first:
+      213: -5328488745555539179
+    second: Obstacle 6_6
+  - first:
+      213: 6652456552803652439
+    second: Obstacle 6_7
+  - first:
+      213: 8215290993048345163
+    second: Obstacle 6_8
+  - first:
+      213: 5467584729476559187
+    second: Obstacle 6_9
+  - first:
+      213: -1688561277248856979
+    second: Obstacle 6_10
+  - first:
+      213: 1100422030975971008
+    second: Obstacle 6_11
+  - first:
+      213: -8603449882893112012
+    second: Obstacle 6_12
+  - first:
+      213: 4022149520543990810
+    second: Obstacle 6_13
+  - first:
+      213: 6839901546302863697
+    second: Obstacle 6_14
+  - first:
+      213: -1829082901353499330
+    second: Obstacle 6_15
+  - first:
+      213: 7901472123401822940
+    second: Obstacle 6_16
+  - first:
+      213: -2348667089077070466
+    second: Obstacle 6_17
+  - first:
+      213: 8921985307808831654
+    second: Obstacle 6_18
+  - first:
+      213: -4169024580508736699
+    second: Obstacle 6_19
+  - first:
+      213: 8607095997918742281
+    second: Obstacle 6_20
+  - first:
+      213: -2053117288850985115
+    second: Obstacle 6_21
+  - first:
+      213: -3301642963111651727
+    second: Obstacle 6_22
+  - first:
+      213: -4305180719554757899
+    second: Obstacle 6_23
+  - first:
+      213: -495809994716962639
+    second: Obstacle 6_24
+  - first:
+      213: -7363988244754308318
+    second: Obstacle 6_25
+  - first:
+      213: 7899932912727963277
+    second: Obstacle 6_26
+  - first:
+      213: 173562127282770715
+    second: Obstacle 6_27
+  - first:
+      213: 1236666209296817777
+    second: Obstacle 6_28
+  - first:
+      213: 7508265148185913744
+    second: Obstacle 6_29
+  - first:
+      213: 7683864690168876778
+    second: Obstacle 6_30
+  - first:
+      213: -1861751535185200416
+    second: Obstacle 6_31
+  - first:
+      213: 470174937008377434
+    second: Obstacle 6_32
+  - first:
+      213: -1614079281571077807
+    second: Obstacle 6_33
+  - first:
+      213: -5847715650910396896
+    second: Obstacle 6_34
+  - first:
+      213: 1012542166171949003
+    second: Obstacle 6_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle 6_0
+      rect:
+        serializedVersion: 2
+        x: 11151
+        y: 755
+        width: 91
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492e7fd612013a20800000000000000
+      internalID: 3040213520713918785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_1
+      rect:
+        serializedVersion: 2
+        x: 11370
+        y: 778
+        width: 89
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6b59409c11830a0800000000000000
+      internalID: -6901746873882265873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_2
+      rect:
+        serializedVersion: 2
+        x: 11581
+        y: 607
+        width: 94
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c165cf5d9a64b0800000000000000
+      internalID: -5446367764692219597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_3
+      rect:
+        serializedVersion: 2
+        x: 11816
+        y: 614
+        width: 100
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862198912a218600800000000000000
+      internalID: 468702160005179021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_4
+      rect:
+        serializedVersion: 2
+        x: 12065
+        y: 759
+        width: 88
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d344570d6d44330800000000000000
+      internalID: 3694313785159597319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_5
+      rect:
+        serializedVersion: 2
+        x: 12294
+        y: 557
+        width: 103
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bcbfacf98941a0800000000000000
+      internalID: -6824772041930131629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_6
+      rect:
+        serializedVersion: 2
+        x: 12475
+        y: 705
+        width: 109
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bce7ba7b76d06b0800000000000000
+      internalID: -5328488745555539179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_7
+      rect:
+        serializedVersion: 2
+        x: 12703
+        y: 524
+        width: 106
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d4911df5425c50800000000000000
+      internalID: 6652456552803652439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_8
+      rect:
+        serializedVersion: 2
+        x: 12946
+        y: 708
+        width: 82
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4adc17b1a3920270800000000000000
+      internalID: 8215290993048345163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_9
+      rect:
+        serializedVersion: 2
+        x: 13180
+        y: 600
+        width: 86
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351fccbc753c0eb40800000000000000
+      internalID: 5467584729476559187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_10
+      rect:
+        serializedVersion: 2
+        x: 13407
+        y: 525
+        width: 90
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1a18f6760198e0800000000000000
+      internalID: -1688561277248856979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_11
+      rect:
+        serializedVersion: 2
+        x: 13657
+        y: 691
+        width: 96
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce2653c10c754f00800000000000000
+      internalID: 1100422030975971008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_12
+      rect:
+        serializedVersion: 2
+        x: 13892
+        y: 788
+        width: 86
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da74f1ae76a9880800000000000000
+      internalID: -8603449882893112012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_13
+      rect:
+        serializedVersion: 2
+        x: 8547
+        y: 212
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14488dbdab81d730800000000000000
+      internalID: 4022149520543990810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_14
+      rect:
+        serializedVersion: 2
+        x: 8558
+        y: 44
+        width: 230
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f60e87363cee50800000000000000
+      internalID: 6839901546302863697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_15
+      rect:
+        serializedVersion: 2
+        x: 9899
+        y: 78
+        width: 184
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357518cacacd96e0800000000000000
+      internalID: -1829082901353499330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_16
+      rect:
+        serializedVersion: 2
+        x: 9925
+        y: 19
+        width: 317
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2640e480ba7ad60800000000000000
+      internalID: 7901472123401822940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_17
+      rect:
+        serializedVersion: 2
+        x: 11190
+        y: 0
+        width: 345
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7519ebe9bbd76fd0800000000000000
+      internalID: -2348667089077070466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_18
+      rect:
+        serializedVersion: 2
+        x: 15207
+        y: 12
+        width: 1067
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a81333ed5241db70800000000000000
+      internalID: 8921985307808831654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_19
+      rect:
+        serializedVersion: 2
+        x: 8335
+        y: 7
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543a7e28b36a426c0800000000000000
+      internalID: -4169024580508736699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_20
+      rect:
+        serializedVersion: 2
+        x: 9613
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90702af253c827770800000000000000
+      internalID: 8607095997918742281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_21
+      rect:
+        serializedVersion: 2
+        x: 10154
+        y: 7
+        width: 83
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe2d324bcd183e0800000000000000
+      internalID: -2053117288850985115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_22
+      rect:
+        serializedVersion: 2
+        x: 10764
+        y: 0
+        width: 156
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176df88c7353e22d0800000000000000
+      internalID: -3301642963111651727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_23
+      rect:
+        serializedVersion: 2
+        x: 10896
+        y: 0
+        width: 226
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf31502fce044c0800000000000000
+      internalID: -4305180719554757899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_24
+      rect:
+        serializedVersion: 2
+        x: 11092
+        y: 0
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0aecccf678e19f0800000000000000
+      internalID: -495809994716962639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_25
+      rect:
+        serializedVersion: 2
+        x: 11458
+        y: 0
+        width: 464
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223644d15bbddc990800000000000000
+      internalID: -7363988244754308318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_26
+      rect:
+        serializedVersion: 2
+        x: 11855
+        y: 0
+        width: 230
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863194e02332ad60800000000000000
+      internalID: 7899932912727963277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_27
+      rect:
+        serializedVersion: 2
+        x: 11991
+        y: 0
+        width: 719
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13962fc5dd986200800000000000000
+      internalID: 173562127282770715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_28
+      rect:
+        serializedVersion: 2
+        x: 12608
+        y: 0
+        width: 554
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e9dde7d55892110800000000000000
+      internalID: 1236666209296817777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_29
+      rect:
+        serializedVersion: 2
+        x: 13039
+        y: 0
+        width: 275
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099211d2f57b23860800000000000000
+      internalID: 7508265148185913744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_30
+      rect:
+        serializedVersion: 2
+        x: 13267
+        y: 0
+        width: 361
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeceaf893292aa60800000000000000
+      internalID: 7683864690168876778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_31
+      rect:
+        serializedVersion: 2
+        x: 13517
+        y: 0
+        width: 363
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea7f3db7dab926e0800000000000000
+      internalID: -1861751535185200416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_32
+      rect:
+        serializedVersion: 2
+        x: 13824
+        y: 0
+        width: 188
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0da63d95668600800000000000000
+      internalID: 470174937008377434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_33
+      rect:
+        serializedVersion: 2
+        x: 13973
+        y: 0
+        width: 276
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15163a6f173a999e0800000000000000
+      internalID: -1614079281571077807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_34
+      rect:
+        serializedVersion: 2
+        x: 14263
+        y: 0
+        width: 243
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e5ef7199db8dea0800000000000000
+      internalID: -5847715650910396896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle 6_35
+      rect:
+        serializedVersion: 2
+        x: 14489
+        y: 0
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc798c64cb54d0e00800000000000000
+      internalID: 1012542166171949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Obstacle 6_0: 3040213520713918785
+      Obstacle 6_1: -6901746873882265873
+      Obstacle 6_10: -1688561277248856979
+      Obstacle 6_11: 1100422030975971008
+      Obstacle 6_12: -8603449882893112012
+      Obstacle 6_13: 4022149520543990810
+      Obstacle 6_14: 6839901546302863697
+      Obstacle 6_15: -1829082901353499330
+      Obstacle 6_16: 7901472123401822940
+      Obstacle 6_17: -2348667089077070466
+      Obstacle 6_18: 8921985307808831654
+      Obstacle 6_19: -4169024580508736699
+      Obstacle 6_2: -5446367764692219597
+      Obstacle 6_20: 8607095997918742281
+      Obstacle 6_21: -2053117288850985115
+      Obstacle 6_22: -3301642963111651727
+      Obstacle 6_23: -4305180719554757899
+      Obstacle 6_24: -495809994716962639
+      Obstacle 6_25: -7363988244754308318
+      Obstacle 6_26: 7899932912727963277
+      Obstacle 6_27: 173562127282770715
+      Obstacle 6_28: 1236666209296817777
+      Obstacle 6_29: 7508265148185913744
+      Obstacle 6_3: 468702160005179021
+      Obstacle 6_30: 7683864690168876778
+      Obstacle 6_31: -1861751535185200416
+      Obstacle 6_32: 470174937008377434
+      Obstacle 6_33: -1614079281571077807
+      Obstacle 6_34: -5847715650910396896
+      Obstacle 6_35: 1012542166171949003
+      Obstacle 6_4: 3694313785159597319
+      Obstacle 6_5: -6824772041930131629
+      Obstacle 6_6: -5328488745555539179
+      Obstacle 6_7: 6652456552803652439
+      Obstacle 6_8: 8215290993048345163
+      Obstacle 6_9: 5467584729476559187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
