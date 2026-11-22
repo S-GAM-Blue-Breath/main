@@ -15,6 +15,21 @@ public class Fish : MonoBehaviour
     private float targetY;
     private float timer;
     private bool collected = false;
+    private bool stayInPlace = false;
+
+    [Header("돌 위 둥둥")]
+    [SerializeField] private float hoverHeight = 0.1f;  // 위아래로 움직이는 폭
+    [SerializeField] private float hoverSpeed = 2f;     // 움직이는 속도
+
+    private Vector3 hoverBase;
+    private float hoverPhase;
+
+    public void StayInPlace()
+    {
+        stayInPlace = true;
+        hoverBase = transform.localPosition;
+        hoverPhase = Random.Range(0f, Mathf.PI * 2f);  // 아이템마다 타이밍 다르게
+    }
 
     private void Start()
     {
@@ -23,6 +38,18 @@ public class Fish : MonoBehaviour
 
     private void Update()
     {
+        if (stayInPlace)
+        {
+            float offset = Mathf.Sin(Time.time * hoverSpeed + hoverPhase) * hoverHeight;
+            transform.localPosition = hoverBase + Vector3.up * offset;
+
+            if (transform.position.x < destroyX)
+            {
+                Destroy(gameObject);
+            }
+            return;
+        }
+
         // 일정 시간마다 새로운 목표 높이 선택
         timer += Time.deltaTime;
 

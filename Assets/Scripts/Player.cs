@@ -13,12 +13,15 @@ public class Player : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Camera mainCamera;
     private bool isSpacePressed;
+    [SerializeField] private float returnSpeed = 3f;   // 밀려난 뒤 돌아오는 속도
+    private float homeX;                                // 원래 가로 위치
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         mainCamera=Camera.main;
+        homeX = rb.position.x;
     }
 
     void Update()
@@ -31,13 +34,19 @@ public class Player : MonoBehaviour
 #endif
     }
 
-    void FixedUpdate()
+        void FixedUpdate()
     {
-       if (isSpacePressed)
-        {
-            rb.linearVelocity = new Vector2(0f, jumpSpeed);
-        } 
+        Vector2 velocity = rb.linearVelocity;
 
+        if (isSpacePressed)
+        {
+            velocity.y = jumpSpeed;   // 가로 속도는 건드리지 않음
+        }
+
+        // 돌에 밀려났으면 원래 자리로 천천히 복귀
+        velocity.x = (homeX - rb.position.x) * returnSpeed;
+
+        rb.linearVelocity = velocity;
     }
 
     void ClampToScreen() {
