@@ -1,0 +1,45 @@
+﻿Scene,ID,Speaker,Text_KR,Note,Ilust(파일명)
+PRO_01,PRO_001,NARR,마을 해변가. 동네 어른들이 모여 수군대는 소리가 들린다.,페이드인/오후의 바닷가 앞.,pro01_day_beach
+PRO_01,PRO_002,GRANNY,이건 분명 그 주기가 돌아온 거야. 몇십 년 물질하며 말로만 들었지 실제로 볼 줄이야..,,pro01_granny_silhouette
+PRO_01,PRO_003,NARR,학교를 마친 (-)가 어른들의 이야기를 기웃거린다.,(-)는 주인공. 이름 미정,pro01_hero_schoolbag
+PRO_01,PRO_004,GRANNY,분명히 봤어. 별조개를...,,pro01_granny_silhouette
+PRO_02,PRO_005,HERO,아까..할머니들 얘기 들었어?,어두워진 밤 바닷가앞.,pro02_night_beach/pro02_hero_icecream
+PRO_02,PRO_006,FRIEND_A,응! ..별조개가 발견되었다며.?,,pro02_friend_icecream
+PRO_02,PRO_007,FRIEND_A,....넌 믿어? 난 잘 모르겠는데..,,pro02_friend_tilt
+PRO_02,PRO_008,HERO,응 난 믿을래. 만약 진짜면? 지금이 볼 수 있는 기회인 거 아니야? 몇십 년 만에 처음 봤다잖아!!,,pro02_hero_excited
+PRO_02,PRO_009,FRIEND_A,그렇긴하네.. 나도..나도 보고싶어..!,,pro02_friend_hopeful
+PRO_02,PRO_010,HERO,(잠시 고민하는 듯하다.) 내가 가져와 줄게. 그거. 어때?,,pro02_hero_confident1
+PRO_02,PRO_011,HERO,"알잖아 나, 할 수 있는 거ㅋ",,pro02_hero_confident1
+PRO_02,PRO_012,FRIEND_A,..진짜? (눈이 반짝인다.),,pro02_friend_hopeful
+PRO_02,PRO_013,HERO,그럼~!!! 나만 믿으라고!!,페이드아웃 -> 검은화면,pro02_hero_confident2
+PRO_02,PRO_014,NARR,(빈 대화창),,black
+PRO_02,PRO_015,FRIEND_A,근데.. 정말 괜찮겠어?,검은화면에 대사창,black
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
