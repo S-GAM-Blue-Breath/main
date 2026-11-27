@@ -14,4 +14,15 @@ public class Obstacle : MonoBehaviour
             health.TakeDamage(damage);
         }
     }
+
+        // 단단한 장애물(돌)에 부딪혔을 때
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        PlayerHealth health = collision.collider.GetComponentInParent<PlayerHealth>();
+
+        if (health != null)
+        {
+            health.TakeDamage(damage);
+        }
+    }
 }
